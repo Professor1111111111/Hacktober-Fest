@@ -1,0 +1,5 @@
+TruthMesh is an offline evidence analysis system.
+
+Students must maintain minimum attendance requirements.
+
+The examination policy states that attendance is checked before examination eligibility.
